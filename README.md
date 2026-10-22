@@ -41,7 +41,7 @@ None of these tools needs an API key, token, or account. They run inside your ow
 
 I build AI tools and workflows for marketing teams: systems like these, scoped to your stack, your data, and your compliance rules.
 
-**[Start a conversation](https://juanminoprio.com/?utm_source=github&utm_medium=readme&utm_campaign=marketing-toolkit#contact)** or email hello@juanminoprio.com.
+**[Start a conversation](https://juanminoprio.com/inquire?utm_source=github&utm_medium=readme&utm_campaign=marketing-toolkit)** or email hello@juanminoprio.com.
 
 ## Who's behind this
 
